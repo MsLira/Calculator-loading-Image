@@ -1,0 +1,22 @@
+C:\Users\Miriam\Desktop\MLiraA2_4SS\MLiraA2_4SS\bin\Debug\MLiraA2_4SS.exe.config
+C:\Users\Miriam\Desktop\MLiraA2_4SS\MLiraA2_4SS\bin\Debug\MLiraA2_4SS.exe
+C:\Users\Miriam\Desktop\MLiraA2_4SS\MLiraA2_4SS\bin\Debug\MLiraA2_4SS.pdb
+C:\Users\Miriam\Desktop\MLiraA2_4SS\MLiraA2_4SS\obj\Debug\MLiraA2_4SS.csproj.AssemblyReference.cache
+C:\Users\Miriam\Desktop\MLiraA2_4SS\MLiraA2_4SS\obj\Debug\MLiraA2_4SS.Properties.Resources.resources
+C:\Users\Miriam\Desktop\MLiraA2_4SS\MLiraA2_4SS\obj\Debug\MLiraA2_4SS.csproj.GenerateResource.cache
+C:\Users\Miriam\Desktop\MLiraA2_4SS\MLiraA2_4SS\obj\Debug\MLiraA2_4SS.csproj.CoreCompileInputs.cache
+C:\Users\Miriam\Desktop\MLiraA2_4SS\MLiraA2_4SS\obj\Debug\MLiraA2_4SS.exe
+C:\Users\Miriam\Desktop\MLiraA2_4SS\MLiraA2_4SS\obj\Debug\MLiraA2_4SS.pdb
+C:\Users\Miriam\Desktop\MLiraA2_4SS\MLiraA2_4SS\obj\Debug\MLiraA2_4SS.Splash_Form.resources
+C:\Users\Miriam\Desktop\MLiraA2_4SS\MLiraA2_4SS\obj\Debug\MLiraA2_4SS.Calculator.resources
+C:\Users\Miriam\Desktop\Spring2021-2022\Avd Computer Programming\MLiraA2_4SS\MLiraA2_4SS\bin\Debug\MLiraA2_4SS.exe.config
+C:\Users\Miriam\Desktop\Spring2021-2022\Avd Computer Programming\MLiraA2_4SS\MLiraA2_4SS\bin\Debug\MLiraA2_4SS.exe
+C:\Users\Miriam\Desktop\Spring2021-2022\Avd Computer Programming\MLiraA2_4SS\MLiraA2_4SS\bin\Debug\MLiraA2_4SS.pdb
+C:\Users\Miriam\Desktop\Spring2021-2022\Avd Computer Programming\MLiraA2_4SS\MLiraA2_4SS\obj\Debug\MLiraA2_4SS.csproj.AssemblyReference.cache
+C:\Users\Miriam\Desktop\Spring2021-2022\Avd Computer Programming\MLiraA2_4SS\MLiraA2_4SS\obj\Debug\MLiraA2_4SS.Calculator.resources
+C:\Users\Miriam\Desktop\Spring2021-2022\Avd Computer Programming\MLiraA2_4SS\MLiraA2_4SS\obj\Debug\MLiraA2_4SS.Splash_Form.resources
+C:\Users\Miriam\Desktop\Spring2021-2022\Avd Computer Programming\MLiraA2_4SS\MLiraA2_4SS\obj\Debug\MLiraA2_4SS.Properties.Resources.resources
+C:\Users\Miriam\Desktop\Spring2021-2022\Avd Computer Programming\MLiraA2_4SS\MLiraA2_4SS\obj\Debug\MLiraA2_4SS.csproj.GenerateResource.cache
+C:\Users\Miriam\Desktop\Spring2021-2022\Avd Computer Programming\MLiraA2_4SS\MLiraA2_4SS\obj\Debug\MLiraA2_4SS.csproj.CoreCompileInputs.cache
+C:\Users\Miriam\Desktop\Spring2021-2022\Avd Computer Programming\MLiraA2_4SS\MLiraA2_4SS\obj\Debug\MLiraA2_4SS.exe
+C:\Users\Miriam\Desktop\Spring2021-2022\Avd Computer Programming\MLiraA2_4SS\MLiraA2_4SS\obj\Debug\MLiraA2_4SS.pdb
